@@ -36,4 +36,4 @@ Here is some code that illustrates two class functions for calculating percentag
         }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can view the source code at [ElectionTally](https://github.com/kngcr/ElectionTally).
