@@ -22,7 +22,7 @@ PassengerLogs was an assignment issued to my friend in ICS 111 at the time. The 
 
 To reach a solution, I had to first read the program she had written to develop an understanding of its functions and variable designations. I also had to consult with the csv file that contained the flight and passenger data to see how it was formatted. The issue had been that the scanner was not properly traversing each substring, which was strictly separated by commas. My fix was to assign three index variables: i for string (the substring to be stored as a string or other type), c for the first comma (before the string), and d for the last comma (after the same string). I chose to use a while loop to increment these indices because Java has a hasNextLine() method that can be used to make a boolean condition with scanner- meaning that as long as there is more text, the loop will continuously run. From there, I stored indices by calling the string array, data, and utilizing the indexOf() and lastIndexOf() methods to obtain the indices for the commas. Further steps were also written to complete this code, but the indices incremented properly to store the correct input and achieve the output required.
 
-Here is the function I assisted with, of which I wrote the while loop:
+Here is the function that contains the while loop I programmed:
 
 ```cpp
 private static ArrayList<Passenger> readPassengerData(String fileName) {
