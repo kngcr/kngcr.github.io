@@ -13,11 +13,6 @@ summary: "I programmed an election results calculator that takes five candidates
 
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 ElectionTally was the first C++ homework assignment in ICS 212. The objective was to write a C++ program that allows the user to input five candidate surnames and their number of votes, then return all names and votes in a specific format along with the percentages of votes received by each candidate and the name of the election winner.
 
