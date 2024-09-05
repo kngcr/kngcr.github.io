@@ -31,7 +31,6 @@ Here is an excerpt from the program that demonstrates my code in the checkOutRoo
           cout << "Address: " << customers[i].getAddress() << endl;
           cout << "Phone: " << customers[i].getPhone() << endl;
           totalAmountInt = dailyRate * numDays; // @Ciara - I changed this, lmk if it works
-          //totalAmount = to_string(totalAmountInt); // @Ciara - I added this instead, lmk if we need this
           cout << "Total Amount Due: " << totalAmountInt << endl;
           cout << "Advance Paid: " << customers[i].advancePaid << endl;
           advancePaidInt = std::stoi(customers[i].advancePaid);
