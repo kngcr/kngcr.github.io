@@ -41,4 +41,4 @@ Here is the while loop that I programmed:
             }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can view the source code at [PassengerLogs](https://github.com/kngcr/PassengerLogs).
