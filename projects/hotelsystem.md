@@ -41,4 +41,4 @@ Here is an excerpt from the program that demonstrates some of my code in the che
         }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can view the source code at [HotelSystem](https://github.com/kngcr/HotelSystem/tree/main).
