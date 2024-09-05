@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/airport.jpg
 title: "PassengerLogs"
 date: 2023-11-22
 published: true
