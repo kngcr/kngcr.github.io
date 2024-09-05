@@ -21,18 +21,14 @@ summary: "I programmed an election results calculator that takes five candidates
 
 ElectionTally was the first C++ homework assignment in ICS 212. The objective was to write a C++ program that allows the user to input five candidate surnames and their number of votes, then return all names and votes in a specific format along with the percentages of votes received by each candidate and the name of the election winner.
 
-Here is some code that illustrates how we read values from the line sensors:
+In this program, I created a Candidate class and a main function. The class serves to store the candidates' details using the getter function, calculate percentages of votes recieved with another function, and a third function to display candidates' details in the required format. The main serves to create a Candidate class object and call the class functions, while also including code for formatting as well.
+
+Here is some code that illustrates how the output is formatted by one of the class functions:
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+ void displayCandidateDetails() {
+            cout << setw(15) << lastName << "\t" << setw(15) << votesReceived << "\t" << setw(10) << fixed << setprecision(0) << percentage << "%" << endl;
+        }
 ```
 
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
