@@ -23,7 +23,7 @@ ElectionTally was the first C++ homework assignment in ICS 212. The objective wa
 
 In this program, I created a Candidate class and a main function. The class serves to store the candidates' details using the getter function, calculate percentages of votes recieved with another function, and a third function to display candidates' details in the required format. The main serves to create a Candidate class object and call the class functions, while also including code for formatting as well.
 
-Here is some code that illustrates two class functions, showing how they calculate percentages and format displayed details:
+Here is some code that illustrates two class functions for calculating percentages and formatting displayed details:
 
 ```cpp
         void calculatePercentage(int totalVotes) {
