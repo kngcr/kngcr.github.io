@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/voter.jpg
 title: "ElectionTally"
 date: 2023-11-19
 published: true
