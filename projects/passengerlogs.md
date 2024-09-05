@@ -12,11 +12,6 @@ labels:
 summary: "This was a friend's project for ICS 111 that reads flight and passenger data from a file then modifies the data to output as desired on the console, the latter of which I programmed a fix for."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 PassengerLogs was an assignment issued to my friend in ICS 111 at the time. The majority of the program was written by her, but she was unable to program the scanner to traverse the file and accurately store the data. I requested to obtain a copy of her files and with her permission, try to program a solution using her pre-existing code.
 
