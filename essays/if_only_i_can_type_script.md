@@ -7,9 +7,11 @@ date: 2024-09-05
 published: true
 labels:
   - TypeScript
+  - WODs
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/time-code.jpg">
+
 
 ## My initial thoughts
 
