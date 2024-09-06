@@ -17,7 +17,7 @@ As a child growing up in the early 2000’s, technology was the easiest way for 
 
 Virtual pet sites, in particular, inspired me. I was fascinated with how a 2D website could be curated to feel like a 3D landscape. The devs would include annual events that added new character interactions on a whole separate page never seen before, with new interactive features designed to cleverly earn event tokens and prizes. Ever since, I became enamored with interactive media.
 
-## Firsts
+## The beginning
 
 Virtual pet sites did more than just bewilder my young mind. It provided me with my first look at coding. These sites provided users with options to customize their posts or to add bios to their pets. The language used for this is BBCode.
 
