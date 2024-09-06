@@ -37,3 +37,5 @@ Here is the while loop that I programmed:
 ```
 
 You can view the source code at [PassengerLogs](https://github.com/kngcr/PassengerLogs).
+
+Fun Fact: This program became the reason I convinced my now best friend to pursue a Computer Science major!
