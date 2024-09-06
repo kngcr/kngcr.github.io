@@ -38,4 +38,6 @@ Here is the while loop that I programmed:
 
 You can view the source code at [PassengerLogs](https://github.com/kngcr/PassengerLogs).
 
-<ins>Fun Fact:</ins> This program became the reason I convinced my now best friend to pursue a Computer Science major!
+<ins>Fun Fact:</ins> This program became the reason I convinced my now best friend to pursue a Computer Science major! She was observing my programming process.
+
+Thanks to this project, I realized how there is a distinction between writing code and understanding code. To come up with a solution to a program that I initially knew nothing of, I needed to effectively communicate with my friend about what the program needed to do, what necessary files / classes / functions / variables did it require, and more. It was not until I reached enough of an understanding of this program that I have been able to start brainstorming solutions. Then, implement solutions. This is a project that I completed within a time frame that surprised me. It was also a crucial time frame that changed the course of someone else's future (see fun fact).
