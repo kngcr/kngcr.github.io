@@ -26,7 +26,7 @@ When I heard of BBCode, HTML was often mentioned. That is because BBCode is simi
 
 I believe that the will to create comes from the joy of completing past projects. My first computer science course had such a project. It was AP Computer Science Principles, where only a final project was required for your AP score (this was in 2020– the pandemic era). I was restricted to Scratch– having forgotten about my BBCode experience– because it was the only language I was taught in this course. 
 
-Nonetheless, I chose to make a calculator with graphics I designed on MSPaint and an elaborate mix of various if statements and loops. Looking back, my code may be inefficient for a calculator since it did not utilize binary to solve mathematical problems in shorter steps. But with the 5 I scored, you can bet that my Scratch calculator could solve simple addition, subtraction, multiplication, and division.
+Nonetheless, I chose to make a calculator with graphics I designed on MSPaint and an elaborate mix of various if statements and loops. Looking back, my code was inefficient for a calculator since it did not utilize binary to solve mathematical problems in shorter steps. But with the '5' I scored, you can bet that my Scratch calculator could solve simple addition, subtraction, multiplication, and division.
 
 Admittedly, this early success has been one of the major factors that continue to motivate me to become a better software engineer.
 
@@ -36,7 +36,7 @@ Cryptography has become an interest of mine ever since I participated in CyberPa
 
 Starting a team dedicated to learning about cybersecurity was a challenge. For one, not many JROTC students were willing to dedicate after school hours to this extracurricular activity. Many were not interested in cybersecurity. Second, we lacked any tutor to guide our cybersecurity learning experience (this only changed in my senior year). For anyone that decided to stick around, we were forced to be self taught.
 
-I was introduced to CyberStart, a free online cyber security course, by my AFJROTC instructor, and after completing all the courses, I found it ingenious how small modifications could alter the entire value of some string. Such a string could be the URL of a website, where a slight misspelling that may seem accidental was actually written with malicious purpose. 
+I was introduced to CyberStart, a free online cybersecurity course, by my AFJROTC instructor, and after completing all the courses, I found it ingenious how small modifications could alter the entire value of some string. Such a string could be the URL of a website, where a slight misspelling that may seem accidental was actually written with malicious purpose. 
 
 Throughout my time in the program, I was introduced to hidden messages within jpeg images, encrypted in some cipher, and messages that needed to be decrypted for an answer. This aspect of cybersecurity intrigues me to this day.
 
