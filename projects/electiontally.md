@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/voter.jpg
+image: img/election/voter.jpg
 title: "ElectionTally"
 date: 2023-11-19
 published: true
