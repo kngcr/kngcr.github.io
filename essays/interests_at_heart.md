@@ -42,7 +42,7 @@ I was introduced to CyberStart, a free online cybersecurity course, by my AFJROT
 
 Throughout my time in the program, I was introduced to hidden messages within jpeg images, encrypted in some cipher, and messages that needed to be decrypted for an answer. This aspect of cybersecurity intrigues me to this day.
 
-## Future Aspirations
+## Future aspirations
 
 Programming language development and compiler design are two recent interests of mine that I hope to expand on in the future. Learning a variety of programming languages made me wonder what the process behind developing an entire language would be. On the other hand, the compiler is a crucial aspect of running a program, so I also grew curious about how a compiler is developed, especially with how consideration is given to the variety of existing languages that a programmer would use.
 
