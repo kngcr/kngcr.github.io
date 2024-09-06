@@ -1,116 +1,149 @@
 {
-  "basics": {
-    "name": "Ciara Kang",
-    "label": "Student",
-    "picture": "https://github.com/kngcr.png",
-    "email": "ciara26@hawaii.edu",
-    "phone": "808-439-7975",
-    "website": "https://kngcr.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96825", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "kngcr", "url": "http://github.com/kngcr" },
-      { "network": "linkedin", "username": "Ciara Kang", "url": "https://www.linkedin.com/in/ciara-kang-a41b14325/" }
-    ]
-  },
-  "interests": [
-    { "name": "Interactive Media (i.e. Games, Websites)" },
-    { "name": "Programming Language Development" },
-    { "name": "Compiler Design" },
-    { "name": "Cryptography" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    "basics": {
+        "name": "Ciara Kang",
+        "label": "Student",
+        "picture": "https://github.com/kngcr.png",
+        "email": "ciara26@hawaii.edu",
+        "phone": "808-439-7975",
+        "website": "https://kngcr.github.io",
+        "summary": "I am studying for a B.A. in Information and Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+        "location": {
+            "address": "",
+            "postalCode": "96825",
+            "city": "Honolulu",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "kngcr",
+                "url": "http://github.com/kngcr"
+            },
+            {
+                "network": "linkedin",
+                "username": "Ciara Kang",
+                "url": "https://www.linkedin.com/in/ciara-kang-a41b14325/"
+            }
+        ]
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences (expected Spring, 2026)",
-      "studyType": "B.A.",
-      "startDate": "2022-08-22",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Vons Chicken",
-      "position": "Restaurant Cashier",
-      "website": "",
-      "startDate": "2022-09-24",
-      "endDate": "2024-01-27",
-      "summary": "Various duties",
-      "highlights": [
-        "Addressing customers entering the store", 
-        "Suggesting the best menu items to customers", 
-        "Answering phone calls for orders placed in advance", 
-        "Using a cash register for order transactions",
-        "Maintaining front desk amenities i.e. TV", 
-        "Preparing boxes for the chicken", 
-        "Resupplying the kitchen with ingredients from the supply room", 
-        "Cleaning duties"
-      ]
-    },
-  "volunteer": [
-    {
-      "organization": "Air Force JROTC – Kaiser High School",
-      "website": "https://www.kaiserhighschoolhawaii.org",
-      "position": "Operations Squadron Commander",
-      "startDate": "2018-08",
-      "endDate": "2022-05",
-      "summary": "Lead the CyberPatriot team",
-      "highlights": [
-        "Available upon request"
-      ]
-    },
+    "interests": [
         {
-      "organization": "Color Guard (Band) – Kaiser High School",
-      "website": "https://www.kaiserhighschoolhawaii.org",
-      "position": "Performer",
-      "startDate": "2019-06",
-      "endDate": "2024-05",
-      "summary": "Spinning flags and rifles",
-      "highlights": [
-        "Available upon request"
-      ]
-    },
-    {
-      "organization": "National Honor Society – Kaiser High School",
-      "website": "https://www.kaiserhighschoolhawaii.org",
-      "position": "Member",
-      "startDate": "2021-04",
-      "endDate": "2024-05",
-      "summary": "Community service and leadership",
-      "highlights": [
-        "Available upon request"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2022-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "President's Scholarship Award",
-      "date": "2022",
-      "awarder": "The Honolulu Hibiscus Lions Club",
-      "summary": "Scholarship granted to one student for exceptional leadership, academic achievement, and devoted community service."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+            "name": "Interactive Media (i.e. Games, Websites)"
+        },
+        {
+            "name": "Programming Language Development"
+        },
+        {
+            "name": "Compiler Design"
+        },
+        {
+            "name": "Cryptography"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages and Frameworks",
+            "keywords": [
+                "C",
+                "C++",
+                "Java",
+                "Javascript"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "keywords": [
+                "MacOS",
+                "Ubuntu",
+                "Git/GitHub",
+                "g++",
+                "TI LaunchPad"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Hawaii, Honolulu, HI",
+            "area": "Information and Computer Sciences (expected Spring, 2026)",
+            "studyType": "B.A.",
+            "startDate": "2022-08-22",
+            "endDate": "Present",
+            "courses": []
+        }
+    ],
+    "work": [
+        {
+            "company": "Vons Chicken",
+            "position": "Restaurant Cashier",
+            "website": "",
+            "startDate": "2022-09-24",
+            "endDate": "2024-01-27",
+            "summary": "Various duties",
+            "highlights": [
+                "Addressing customers entering the store",
+                "Suggesting the best menu items to customers",
+                "Answering phone calls for orders placed in advance",
+                "Using a cash register for order transactions",
+                "Maintaining front desk amenities i.e. TV",
+                "Preparing boxes for the chicken",
+                "Resupplying the kitchen with ingredients from the supply room",
+                "Cleaning duties"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Air Force JROTC – Kaiser High School",
+            "website": "https://www.kaiserhighschoolhawaii.org",
+            "position": "Operations Squadron Commander",
+            "startDate": "2018-08",
+            "endDate": "2022-05",
+            "summary": "Lead the CyberPatriot team",
+            "highlights": [
+                "Available upon request"
+            ]
+        },
+        {
+            "organization": "Color Guard (Band) – Kaiser High School",
+            "website": "https://www.kaiserhighschoolhawaii.org",
+            "position": "Performer",
+            "startDate": "2019-06",
+            "endDate": "2024-05",
+            "summary": "Spinning flags and rifles",
+            "highlights": [
+                "Available upon request"
+            ]
+        },
+        {
+            "organization": "National Honor Society – Kaiser High School",
+            "website": "https://www.kaiserhighschoolhawaii.org",
+            "position": "Member",
+            "startDate": "2021-04",
+            "endDate": "2024-05",
+            "summary": "Community service and leadership",
+            "highlights": [
+                "Available upon request"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "B+ Scholarship",
+            "date": "2022-Present",
+            "awarder": "State of Hawaii",
+            "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+        },
+        {
+            "title": "President's Scholarship Award",
+            "date": "2022",
+            "awarder": "The Honolulu Hibiscus Lions Club",
+            "summary": "Scholarship granted to one student for exceptional leadership, academic achievement, and devoted community service."
+        }
+    ],
+    "references": [
+        {
+            "name": "Available upon request"
+        }
+    ]
 }
