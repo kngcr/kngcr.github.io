@@ -9,7 +9,7 @@ labels:
   - Interests
 ---
 
-<img width="280px" class="rounded float-start pe-4" src="../img/interests/kid-computer-coding.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/interests/kid-computer-coding.png">
 
 ## It began
 
