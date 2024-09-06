@@ -9,7 +9,7 @@ labels:
   - TypeScript
 ---
 
-<img class="img-fluid" src="../img/the-rise-of-typescript.jpg">
+<img class="img-fluid" src="../img/time-code.jpg">
 
 ## My initial thoughts
 
