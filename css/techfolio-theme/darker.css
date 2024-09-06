@@ -1,0 +1,51 @@
+/* Inverted Theme: opposite colors of the default theme. */
+
+/* Use Open Sans as the default sans serif font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: var(--bs-light-blue); /* Opposite of default blue */
+  --tf-pill-bg: var(--bs-dark-gray); /* Dark background for pill */
+  --tf-icon-fill: var(--bs-dark-gray); /* Dark icon fill */
+  --tf-icon-hover: var(--bs-dark-gray-500); /* Darker gray on hover */
+  --tf-page-bg-color: var(--bs-dark); /* Dark background for the page */
+  --tf-footer-bg-color: var(--bs-dark-gray-200); /* Dark footer background */
+  --tf-projects-bg-color: var(--bs-dark-gray-100); /* Dark projects background */
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-icon-fill);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  text-decoration: none;
+  color: var(--bs-link-color); /* Light link color */
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
+
+/* Simplify the styling of the bottom of Essay cards. */
+.card-footer {
+  background-color: var(--bs-dark); /* Dark background for card footer */
+  border-top: none;
+}
