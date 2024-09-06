@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/airport.jpg
+image: img/passlogs/airport.jpg
 title: "PassengerLogs"
 date: 2023-11-22
 published: true
