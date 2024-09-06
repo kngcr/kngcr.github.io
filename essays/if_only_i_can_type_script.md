@@ -23,11 +23,6 @@ On the other hand, I do not want to underestimate the importance of being able t
 
 Now, I am aware that with how WODs are designed, it would be counterintuitive to work as a group to solve official problems. It may even cause less incentive to prepare for WODs should they become a group effort in every case. But I do argue that with the availability of AI and the internet, the individual effort may not entirely be benefitted. **Efficiency for time would triumph over the quality of code.** An example of this would be the ease of hard coding return statements via copy & paste (a bad beginner habit) instead of reducing redundancy through assigning a value to a variable and then returning a string template.
 
-<figure>
-  <img src="https://example.com/image.png](https://miro.medium.com/v2/resize:fit:1400/1*ticmXLUHULvlbtGtXHlSew.jpeg" alt="Image description">
-  <figcaption>A string template derives from Temperate Literal Types.</figcaption>
-</figure>
-
 ## Time > Quality?
 
 I believe that the consistency of a weekly practice WOD and official WOD will work to my benefit. Consistent coding is the best way to retain coding knowledge. I acknowledge that some WODs were taken directly from sources that utilize WODs as a test in the application process. In that way, WODs are only beneficial. The time constraint is a concern. I worry that proper coding practices will be set aside for pure efficiency. Only time will tell… because there are guidelines in place for what is expected of the code. It will keep me on my toes– emphasizing the importance of reading the fine print and adhering to instructions carefully.
