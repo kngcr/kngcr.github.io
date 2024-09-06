@@ -9,6 +9,8 @@ labels:
   - Interests
 ---
 
+<img width="280px" class="rounded float-start pe-4" src="../img/interests/kid-computer-coding.png">
+
 ## It began
 
 As a child growing up in the early 2000’s, technology was the easiest way for my busy parents to keep me entertained. I would be invested in shows streamed on television or in apps on a tablet (anyone remember Pokémon TV). Then I would be introduced to games from my friends, which I accessed on a computer (I was an Animal Jam kid) or a phone (mobile games or virtual pet sites if you know them). 
