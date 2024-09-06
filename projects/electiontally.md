@@ -18,8 +18,6 @@ ElectionTally was the first C++ homework assignment in ICS 212. The objective wa
 
 In this program, I created a Candidate class and a main function. The class serves to store the candidates' details using the getter function, calculate percentages of votes recieved with another function, and a third function to display candidates' details in the required format. The main serves to create a Candidate class object and call the class functions, while also including code for formatting as well. 
 
-Writing this program made me realize the complexities of C++ that differ from a language like Java. The use of namespace std to specifically declare names of classes, functions, variables, and more from the C++ standard library so that the compiler does not have an error identifying what function, for example, is being called; an indicator of how complex C++ libraries are to potentially share classes, functions, variables, and more with similar names. This project had enough complexity to not overwhelm, but still push my mind to mull over the intricacies of coding in C++.
-
 Here is some code that illustrates two class functions for calculating percentages and formatting displayed details:
 
 ```cpp
@@ -34,3 +32,5 @@ Here is some code that illustrates two class functions for calculating percentag
 ```
 
 You can view the source code at [ElectionTally](https://github.com/kngcr/ElectionTally).
+
+Writing this program made me realize the complexities of C++ that differ from a language like Java. The use of namespace std to specifically declare names of classes, functions, variables, and more from the C++ standard library so that the compiler does not have an error identifying what function, for example, is being called; an indicator of how complex C++ libraries are to potentially share classes, functions, variables, and more with similar names. This project had enough complexity to not overwhelm, but still push my mind to mull over the intricacies of coding in C++.
