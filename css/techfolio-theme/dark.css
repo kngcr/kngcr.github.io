@@ -1,48 +1,51 @@
-/* Monotone Dark Mode Theme: a grayscale theme with dark background and light text. */
+/* Inverted Theme: opposite colors of the default theme. */
 
-/* Use Open Sans as the default font. */
+/* Use Open Sans as the default sans serif font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-gray1: #f0f0f0; /* Light gray for text */
-  --tf-gray2: #d0d0d0; /* Medium gray for accents */
-  --tf-gray3: #a0a0a0; /* Dark gray for highlights */
-  --tf-gray4: #333333; /* Darker gray for backgrounds */
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-gray1);
-  --tf-pill-bg: var(--tf-gray2);
-  --tf-icon-fill: var(--tf-gray1);
-  --tf-page-bg-color: var(--tf-gray4); /* Dark background for the page */
-  --tf-footer-bg-color: var(--tf-gray3); /* Dark gray background for footer */
-  --tf-projects-bg-color: var(--tf-gray3); /* Dark gray background for projects */
-}
-
-body {
-  background-color: var(--tf-page-bg-color);
-  color: var(--tf-gray1); /* Light text color for readability */
-}
-
-/* Header styles */
-h1,h2,h3,h4 {
-  color: var(--tf-gray1);
+  --bs-link-color: var(--bs-light-blue); /* Opposite of default blue */
+  --tf-pill-bg: var(--bs-dark-gray); /* Dark background for pill */
+  --tf-icon-fill: var(--bs-dark-gray); /* Dark icon fill */
+  --tf-icon-hover: var(--bs-dark-gray-500); /* Darker gray on hover */
+  --tf-page-bg-color: var(--bs-dark); /* Dark background for the page */
+  --tf-footer-bg-color: var(--bs-dark-gray-200); /* Dark footer background */
+  --tf-projects-bg-color: var(--bs-dark-gray-100); /* Dark projects background */
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-gray1);
+  fill: var(--tf-icon-fill);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
+  transition: 0.2s;
 }
 
-/* Links styling */
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
 a {
-  color: var(--bs-link-color);
   text-decoration: none;
+  color: var(--bs-link-color); /* Light link color */
 }
 
-a:hover {
-  text-decoration: underline;
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
+
+/* Simplify the styling of the bottom of Essay cards. */
+.card-footer {
+  background-color: var(--bs-dark); /* Dark background for card footer */
+  border-top: none;
 }
