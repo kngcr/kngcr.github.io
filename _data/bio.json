@@ -54,11 +54,9 @@
         {
             "name": "Toolsets/OS",
             "keywords": [
-                "MacOS",
-                "Ubuntu",
+                "Windows OS",
                 "Git/GitHub",
-                "g++",
-                "TI LaunchPad"
+                "Visual Studio Code"
             ]
         }
     ],
