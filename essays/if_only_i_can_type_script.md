@@ -10,8 +10,7 @@ labels:
   - WODs
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/time-code.jpg">
-
+<img width="280px" class="rounded float-start pe-4" src="../img/time-code.jpg">
 
 ## My initial thoughts
 
