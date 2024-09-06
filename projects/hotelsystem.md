@@ -37,3 +37,5 @@ Here is an excerpt from the program that demonstrates some of my code in the che
 ```
 
 You can view the source code at [HotelSystem](https://github.com/kngcr/HotelSystem/tree/main).
+
+This project taught me the importance of a cohesive team effort. Thankfully, I had a team who contributed to the project with their designated code (to varying degree). It took extensive time to read through everyone's code and match coding styles together, but, it was worth it at the end. It also took a lot of communication to clarify variable assignments, class functions, and more. Due to this push for communication, I believe it positively set our group up for the final presentation of this project. I can confidently say that to date, this has been the best group project I have been a part of.
