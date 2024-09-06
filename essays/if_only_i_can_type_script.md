@@ -9,6 +9,8 @@ labels:
   - TypeScript
 ---
 
+<img class="img-fluid" src="../img/the-rise-of-typescript.jpg">
+
 ## My initial thoughts
 
 On TypeScript, the option to declare variable types or let TS infer variable types was the most appealing aspect to me. As someone new to TS, this flexibility provides a breath of fresh air. The ability to declare variable types is different from JavaScript, which does not require it. On the other hand, C and C++ require you to declare variable types. While I do prefer the latter and I understand it is also highly recommended, I believe TS’s ability to infer types is indicative of the future with machine learning. That is, the ability to predict a programmer’s intention behind their code is beneficial to software developers. That on top of how TS is a superset of JS– meaning JS but with more features– I believe TS to be a good programming language from a software engineering perspective.
