@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotel.jpg
+image: img/hotelsys/hotel.jpg
 title: "HotelSystem"
 date: 2023-12-09
 published: true
