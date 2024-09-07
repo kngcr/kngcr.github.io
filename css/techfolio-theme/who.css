@@ -1,0 +1,51 @@
+/* Bitter Theme: modifies the default theme to use Bitter as the default font. */
+
+@import url("https://fonts.googleapis.com/css?family=Bitter:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --bs-font-sans-serif: "Bitter", sans-serif;
+  --bs-link-color: var(--bs-light); /* Light color for links */
+  --tf-pill-bg: var(--bs-dark-gray); /* Dark gray background for pills */
+  --tf-icon-fill: var(--bs-light-gray); /* Light gray for icon fill */
+  --tf-icon-hover: var(--bs-light); /* Light color for icon hover */
+  --tf-page-bg-color: var(--bs-dark); /* Dark background for the page */
+  --tf-footer-bg-color: var(--bs-dark-gray); /* Dark gray background for footer */
+  --tf-projects-bg-color: var(--bs-darker-gray); /* Even darker gray for project backgrounds */
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-icon-fill);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+a {
+  text-decoration: none;
+  color: var(--bs-link-color); /* Link color in dark mode */
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
+
+/* Simplify the styling of the bottom of Essay cards. */
+.card-footer {
+  background-color: var(--tf-footer-bg-color); /* Dark gray background for card footer */
+  color: var(--bs-light); /* White text color for card footer */
+  border-top: none;
+}
