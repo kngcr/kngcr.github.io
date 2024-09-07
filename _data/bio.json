@@ -94,16 +94,17 @@
     ],
     "volunteer": [
         {
-            "organization": "Air Force JROTC – Kaiser High School",
+            "organization": "National Honor Society – Kaiser High School",
             "website": "https://www.kaiserhighschoolhawaii.org",
-            "position": "Operations Squadron Commander",
-            "startDate": "2018-08",
+            "position": "Member",
+            "startDate": "2021-08",
             "endDate": "2022-05",
-            "summary": "Lead the CyberPatriot team",
+            "summary": "Community service and leadership",
             "highlights": [
                 "Details available upon request"
             ]
-        },
+        }
+    ],
         {
             "organization": "Color Guard (Band) – Kaiser High School",
             "website": "https://www.kaiserhighschoolhawaii.org",
@@ -116,17 +117,16 @@
             ]
         },
         {
-            "organization": "National Honor Society – Kaiser High School",
+            "organization": "Air Force JROTC – Kaiser High School",
             "website": "https://www.kaiserhighschoolhawaii.org",
-            "position": "Member",
-            "startDate": "2021-08",
+            "position": "Operations Squadron Commander",
+            "startDate": "2018-08",
             "endDate": "2022-05",
-            "summary": "Community service and leadership",
+            "summary": "Lead the CyberPatriot team",
             "highlights": [
                 "Details available upon request"
             ]
-        }
-    ],
+        },
     "awards": [
         {
             "title": "B+ Scholarship",
