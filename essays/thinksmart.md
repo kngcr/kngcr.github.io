@@ -35,7 +35,7 @@ This [bad example](https://stackoverflow.com/questions/78919023/problem-with-rem
 
 If you need help fixing your code, consult with your favorite search engine. Put effort into doing the research yourself. It is better to redo all of your code for a potential fix before consulting others. The effort and time that it takes to find a solution for a program that you have not written is usually not worth it. 
 
-Another option is to gather enough understanding of your issues to then formulate an actual “smart” question to ask the community. In this case, the user should narrow down the problem. To state that most of the code runs fine but they encounter issues *such as* a 403 error is *not specific enough*. It indicates a lack of understanding of their own program’s functionality.
+Another option is to gather enough understanding of your issues to then formulate an actual “smart” question to ask the community. In this case, the user should narrow down the problem. To state that most of the code runs fine but they encounter issues such as a `403` error is *not specific enough*. It indicates a lack of understanding of their own program’s functionality.
 
 ## Importance
 
