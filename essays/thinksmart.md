@@ -13,7 +13,7 @@ labels:
 
 ## Guidelines
 
-This [guide](http://www.catb.org/esr/faqs/smart-questions.html#forum) specifies how to ask “smart” questions that would get you “smart” answers. Since it contradicts the very philosophy of the linked article, *do not contact the authors with questions*. It goes to show how you lack etiquette for asking “smart” questions and prove that you learned nothing.
+This [guide](http://www.catb.org/esr/faqs/smart-questions.html) specifies how to ask “smart” questions that would get you “smart” answers. Since it contradicts the very philosophy of the linked article, *do not contact the authors with questions*. It goes to show how you lack etiquette for asking “smart” questions and prove that you learned nothing.
 
 Now, what is this etiquette? I will simplify it.
 
