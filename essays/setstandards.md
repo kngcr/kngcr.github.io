@@ -29,4 +29,4 @@ console.log(numEvenNums(fib())); // 17
 
 In this case, ESLint gives an error if you were to directly return the object that is modified by the map function. This modified value needs to be stored as a variable, I presume so that this action is secure. Prior to VSCode and ESLinit, VS Playground would support this return statement without issuing an error.
 
-Otherwise, I find the nuance of a new line after the entire code and specific indentations useful to ensure that proper coding etiquette is pushed on developers. Particularly new developers, who may not understand coding standards just yet.
+Otherwise, I find the nuance of a new line after the entire code and specific indentations useful to ensure that proper coding etiquette is pushed on developers. Particularly new developers, who may not understand coding standards just yet. Coding is a collaborative effort, which stresses the importance of readable code.
