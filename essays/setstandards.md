@@ -7,9 +7,10 @@ date: 2024-09-26
 published: true
 labels:
   - Coding standards
+  - Visual Studio Code
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/setstandards/code_style.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/setstandards/code_style.jpg">
 
 ## Standards
 In a general context, standards are beneficial in providing an expected structure of conduct. Coding standards act as strict expectations for how code should be formatted. Although daunting and potentially frustrating, I believe that software developers benefit best from setting self-imposed restrictions such as these standards. Coding standards are a good practice for writing readable code, which is key for future development to be incorporated into a program with more ease. Readability is an important aspect of coding standards that affects the quality of code in both its current and future state.
