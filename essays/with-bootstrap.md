@@ -10,7 +10,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/with-bootstrap/with-bootstap.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/with-bootstrap/with-bootstrap.png">
 
 ## With Bootstrap…
 
