@@ -10,7 +10,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="900px" class="rounded float-start pe-4" src="../img/with-bootstrap/with-bootstrap.png">
+<img width="1400px" class="rounded float-start pe-4" src="../img/with-bootstrap/with-bootstrap.png">
 
 ## With Bootstrap…
 
@@ -18,7 +18,11 @@ I can hasten the tedious process of web page development. UI Frameworks like Boo
 
 ## With Bootstrap…
 
-I can create responsive designs. UI Frameworks like Bootstrap offer built-in responsive UI elements that would otherwise take additional manual styling in HTML/CSS. It is important for web pages to be responsive because it allows for automatic adjustment to different screen sizes to benefit the user’s experience. Along with the previous point, the ability to apply a useful UI element easily speeds up the webpage development process.
+I can make use of utility classes to easily modify my webpage’s format. An example of this class in Bootstrap is the use of a div container, which affects the alignment of elements. This eliminates the need to write additional CSS for customization.
+
+## With Bootstrap…
+
+I can create responsive designs. UI Frameworks like Bootstrap offer built-in responsive UI elements that would otherwise take additional manual styling in HTML/CSS. It is important for web pages to be responsive because it allows for automatic adjustment to different screen sizes to benefit the user’s experience. Along with the previous points, this easily speeds up the webpage development process.
 
 ## With Bootstrap…
 
