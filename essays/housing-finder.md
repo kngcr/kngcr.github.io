@@ -17,7 +17,7 @@ labels:
 
 ## Names of the proposers
 
-Our group: Ciara Kang, Deolian Domawa, Trevell Pruitt, Kyle Aipoalani, Michael Lee
+Ciara Kang, Deolian Domawa, Trevell Pruitt, Kyle Aipoalani, Michael Lee
 
 ## Mockup page ideas
 
