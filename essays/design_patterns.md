@@ -45,7 +45,7 @@ Patterns exist within programs to solve intricate problems. The example of desig
 
 The above code is an example of an Iterator pattern, with an iterator used in the main function to process each candidate's array. This is C++ code from an ICS 212 assignment. The Iterator design pattern is widely used for its consistency and abstraction. This allows us, programmers, to focus on what an object does rather than how it does it. So, in a simpler way, my code can access each candidate's array for the array's details without worrying about how to go through arrays of candidates to access details.
 
-I had read that design patterns are discovered and named by programmers. As programmers, we use design patterns to create optimized code. But, I can channel the ideology of a meme- the scene between Gojo and Geto- to rephrase this sentence: “Design patterns use programmers.”
+I had read that design patterns are discovered and named by programmers. As programmers, we use design patterns to create optimized code. But, I can channel the ideology of a meme- the scene between Gojo and Geto- to rephrase this sentence: “Design patterns use programmers.” Design patterns are built on our tendencies to use similar solutions to similar problems.
 
 ## Credits
 
