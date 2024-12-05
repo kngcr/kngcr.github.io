@@ -29,6 +29,22 @@ Design patterns with the intent of affecting behavior, address how objects and c
 
 Patterns exist within programs to solve intricate problems. The examples of design patterns that I have explained were part of my own code. In a previous ICS course that focused on C and C++, I have used a Proxy class to serve as a placeholder. In multiple courses, I have used an Iterator class to iterate through data.
 
+```cpp
+  int main() {
+    // Declare variables
+    const int numCandidates = 5;
+    Candidate candidates[numCandidates];
+    int totalVotes = 0;
+
+    // Get input for candidate details
+    for(int i = 0; i < numCandidates; i++){
+        candidates[i].getCandidateDetails(i);
+        totalVotes += candidates[i].votesReceived;
+    }
+```
+
+The above code is an example of an Iterator pattern, with an iterator used in the main function to process each candidate's array. This is C++ code from an ICS 212 assignment.
+
 I had read that design patterns are discovered and named by programmers. As programmers, we use design patterns to create optimized code. But, I can channel the ideology of a meme- the scene between Gojo and Geto- to rephrase this sentence: “Design patterns use programmers.”
 
 ## Credits
