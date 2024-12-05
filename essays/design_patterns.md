@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="900px" class="rounded float-start pe-4" src="../img/design-patterns/proxy_example.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/design-patterns/proxy_example.png">
 
 ## Hidden Intent
 
