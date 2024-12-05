@@ -33,4 +33,4 @@ I had read that design patterns are discovered and named by programmers. As prog
 
 ## Credits
 
-I used AI to reference flexibility and abstraction in object creation. Primarily, I referenced this (LinkedIn article)[https://www.linkedin.com/pulse/7-design-patterns-you-should-know-hayk-simonyan/] and (StackExchange post)https://softwareengineering.stackexchange.com/questions/141854/design-patterns-do-you-use-them.
+I used AI to reference flexibility and abstraction in object creation. Primarily, I referenced this [LinkedIn article](https://www.linkedin.com/pulse/7-design-patterns-you-should-know-hayk-simonyan/) and [StackExchange post](https://softwareengineering.stackexchange.com/questions/141854/design-patterns-do-you-use-them).
