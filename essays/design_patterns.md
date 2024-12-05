@@ -27,7 +27,7 @@ Design patterns with the intent of affecting behavior, address how objects and c
 
 ## Usage
 
-Patterns exist within programs to solve intricate problems. The example of design patterns that I have explained were part of my own code. Most notably throughout my ICS courses, I have used an Iterator class to iterate through data.
+Patterns exist within programs to solve intricate problems. The examples of design patterns that I have explained were part of my own code. Most notably throughout my ICS courses, I have used an Iterator class to iterate through data.
 
 ```cpp
   int main() {
