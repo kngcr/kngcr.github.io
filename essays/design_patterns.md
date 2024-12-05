@@ -27,7 +27,7 @@ Design patterns with the intent of affecting behavior, address how objects and c
 
 ## Usage
 
-Patterns exist within programs to solve intricate problems. The examples of design patterns that I have explained were part of my own code. In a previous ICS course that focused on C and C++, I have used a Proxy class to serve as a placeholder. In multiple courses, I have used an Iterator class to iterate through data.
+Patterns exist within programs to solve intricate problems. The example of design patterns that I have explained were part of my own code. Most notably throughout my ICS courses, I have used an Iterator class to iterate through data.
 
 ```cpp
   int main() {
@@ -43,10 +43,10 @@ Patterns exist within programs to solve intricate problems. The examples of desi
     }
 ```
 
-The above code is an example of an Iterator pattern, with an iterator used in the main function to process each candidate's array. This is C++ code from an ICS 212 assignment.
+The above code is an example of an Iterator pattern, with an iterator used in the main function to process each candidate's array. This is C++ code from an ICS 212 assignment. The Iterator design pattern is widely used for its consistency and abstraction. This allows us, programmers, to focus on what an object does rather than how it does it. So, in a simpler way, my code can access candidate's array for the array's details without worrying about how to go through arrays of candidates to access details.
 
 I had read that design patterns are discovered and named by programmers. As programmers, we use design patterns to create optimized code. But, I can channel the ideology of a meme- the scene between Gojo and Geto- to rephrase this sentence: “Design patterns use programmers.”
 
 ## Credits
 
-I used AI to reference flexibility and abstraction in object creation. Primarily, I referenced this [LinkedIn article](https://www.linkedin.com/pulse/7-design-patterns-you-should-know-hayk-simonyan/) and [StackExchange post](https://softwareengineering.stackexchange.com/questions/141854/design-patterns-do-you-use-them).
+I used AI to reference flexibility and abstraction in object creation, as well as details on iterators. Primarily, I referenced this [LinkedIn article](https://www.linkedin.com/pulse/7-design-patterns-you-should-know-hayk-simonyan/) and [StackExchange post](https://softwareengineering.stackexchange.com/questions/141854/design-patterns-do-you-use-them).
