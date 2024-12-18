@@ -85,7 +85,7 @@ I have asked ChatGPT to explain code for the final project. Sometimes, I did not
 
 I did not use AI for documenting code. I find it easier to write my own commentary. Unless the code includes comments, which is a benefit of AI generated code, the cost of asking AI to document code is that it may be unnecessary. Submitting code to AI contributes to its training data.
 
-### Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+### Quality assurance
 
 I definitely have asked ChatGPT to fix errors in my code, primarily because Co-Pilot could not fix it. The benefit of AI is realizing what the issue is, but the cost is that AI is not always able to solve the issue. Especially in my case, when it is an issue with Prisma.
 
