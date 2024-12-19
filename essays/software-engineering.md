@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/software-engineering/programmer-author.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/software-engineering/programmer-author.jpg">
 
 ## Lessons from the ICS 314 Course
 
