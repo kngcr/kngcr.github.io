@@ -51,7 +51,13 @@
                 "C",
                 "C++",
                 "Java",
-                "JavaScript"
+                "JavaScript",
+                "TypeScript",
+                "HTML/CSS",
+                "Bootstrap 5",
+                "PostgreSQL",
+                "Prisma ORM",
+                "Next.js"
             ]
         },
         {
@@ -62,7 +68,9 @@
                 "Andriod",
                 "Git/GitHub",
                 "Eclipse IDE",
-                "Visual Studio Code"
+                "Visual Studio Code IDE",
+                "React",
+                "Vercel"
             ]
         }
     ],
@@ -93,6 +101,23 @@
                 "Preparing boxes for the chicken",
                 "Resupplying the kitchen with ingredients from the supply room",
                 "Cleaning duties"
+            ]
+        },
+                {
+            "company": "Dr. Takahashi Juku, LTD",
+            "position": "Tutor",
+            "website": "",
+            "startDate": "2024-09-30",
+            "endDate": "Present",
+            "summary": "Tutoring elementary to high-school students in English and Math",
+            "highlights": [
+                "SSAT prep",
+                "SAT prep",
+                "Test taking strategies",
+                "Pre-K education",
+                "Aiding in private school admission",
+                "Schoolwork assistance",
+                "Algebra"
             ]
         }
     ],
