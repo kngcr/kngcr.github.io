@@ -4,7 +4,7 @@ type: essay
 title: "Setting standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-26
-published: true
+published: false
 labels:
   - Coding standards
   - Visual Studio Code
