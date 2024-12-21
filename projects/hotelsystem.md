@@ -9,7 +9,7 @@ labels:
   - Management
   - Group Project
   - C++
-summary: "We developed a basic hotel management system that allows users to add new rooms with features and search available rooms, check in and check out, search customer, and generate guest reports."
+summary: "We developed a basic hotel management system that allows users to add new rooms with features and search available rooms, check in and check out, search customers, and generate guest reports."
 ---
 
 
