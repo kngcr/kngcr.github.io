@@ -4,7 +4,7 @@ type: essay
 title: "With Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
-published: true
+published: false
 labels:
   - UI Frameworks
   - Bootstrap
