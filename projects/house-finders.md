@@ -22,10 +22,9 @@ Although I could recall learning about implementing all CSS styling from one sha
 As an example, our website’s appearance had drastically changed at the last minute for our third and final milestone. Below, I show a picture of the old landing page and then, the new landing page.
 
 
-<img width="450px" class="rounded float-start pe-4" src="../img/house-finders/old-landing-page.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/house-finders/old-landing-page.png">  
 
-
-<img width="450px" class="rounded float-start pe-4" src="../img/house-finders/new-landing-page.png">
+<img width="450px" class="rounded float-start pe-4" src="../img/house-finders/new-landing-page.png">  
 
 
 You can view the source code at [House Finders](https://github.com/house-finders/house-finders).
