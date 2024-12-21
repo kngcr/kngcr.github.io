@@ -19,12 +19,11 @@ For this project, my main contribution was the styling of our website. I designe
 
 Although I could recall learning about implementing all CSS styling from one shared .css file, I learned that it is difficult to do so when every person writes code differently. Not only do coding preferences differ, but there is also the challenge of working with	a live project. We had to admit which issues were reasonable to complete within each week’s milestone, and which issues to push back. Ideas have also risen and fallen through.
 
-As an example, our website’s appearance had drastically changed at the last minute for our third and final milestone. Below, I show a picture of the old landing page and then, the new landing page.
+As an example, our website’s appearance had drastically changed at the last minute for our third and final milestone. Below, I show a picture of the old landing page and then, the new landing page. <br>
 
 
-<img width="450px" class="rounded float-start pe-4" src="../img/house-finders/old-landing-page.png"><br />
-
-<img width="450px" class="rounded float-start pe-4" src="../img/house-finders/new-landing-page.png"><br />
+<img width="80%" src="../img/house-finders/old-landing-page.png"> <br>
+<br> <img width="80%" src="../img/house-finders/new-landing-page.png"> <br>
 
 
 You can view the source code at [House Finders](https://github.com/house-finders/house-finders).
