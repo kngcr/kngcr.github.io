@@ -4,7 +4,7 @@ type: project
 image: img/election/voter.jpg
 title: "ElectionTally"
 date: 2023-11-19
-published: true
+published: false
 labels:
   - Calculations
   - Individual Project
