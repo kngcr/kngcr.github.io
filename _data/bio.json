@@ -164,16 +164,16 @@
             "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
         },
         {
-            "title": "President's Scholarship Award",
-            "date": "2022",
-            "awarder": "The Honolulu Hibiscus Lions Club",
-            "summary": "Scholarship granted to one student for exceptional leadership, academic achievement, and devoted community service."
-        },
-        {
             "title": "Dean's List",
             "date": "2024",
             "awarder": "University of Hawai'i at M​ānoa",
             "summary": "A distinction awarded to undergraduate students who earn a semester GPA of 3.5 or higher based on 12 credits or more and do not recieve grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)."
+        },
+        {
+            "title": "President's Scholarship Award",
+            "date": "2022",
+            "awarder": "The Honolulu Hibiscus Lions Club",
+            "summary": "Scholarship granted to one student for exceptional leadership, academic achievement, and devoted community service."
         }
     ],
     "references": [
