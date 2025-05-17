@@ -11,7 +11,7 @@ labels:
 ---
 
 <p align="center">
-  <img src="../img/software-engineering/programmer-author.jpg" width="450px">
+  <img src="../img/software-two/teamwork.png" width="450px">
 </p>
 
 ## First Reaction
@@ -28,4 +28,4 @@ During development, I had found that the lack of consistent communication betwee
 
 ## Future Advice
 
-For future ICS 414 students, my advice would be to work harder towards befriending teammates at the start. Solid team bonding activities would strengthen every team member’s motivation and willingness to communicate well. Also, although it may be daunting to develop a project for an actual client, I believe working effectively with one’s team to split up major project goals as microtasks would ease the stress of it. ICS 414 has taught me to not take a good team lightly. I cannot stress enough the importance of nurturing teamwork.
+For future ICS 414 students, my advice would be to work harder towards befriending teammates at the start. Solid team bonding activities would strengthen every team member’s motivation and willingness to communicate well. Also, although it may be daunting to develop a project for an actual client, I believe working effectively with one’s team to split up major project goals as microtasks would ease the stress of it. ICS 414 has taught me to not take a good team lightly. I cannot stress enough the importance of nurturing teamwork to be fulfilled by ICS 414. But this ideology is also relevant in professional environments, where individuals have no control over who their coworkers are.
