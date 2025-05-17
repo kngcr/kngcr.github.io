@@ -10,7 +10,9 @@ labels:
   - ICS 414
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/software-engineering/programmer-author.jpg">
+<p align="center">
+  <img src="../img/software-engineering/programmer-author.jpg" width="450px">
+</p>
 
 ## First Reaction
 
