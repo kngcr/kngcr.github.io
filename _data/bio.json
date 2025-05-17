@@ -103,7 +103,7 @@
                 "Cleaning duties"
             ]
         },
-                {
+        {
             "company": "Dr. Takahashi Juku, LTD",
             "position": "Tutor",
             "website": "",
@@ -118,6 +118,21 @@
                 "Aiding in private school admission",
                 "Schoolwork assistance",
                 "Algebra - Trigonometry"
+            ]
+        },
+        {
+            "company": "Clawsters",
+            "position": "Contractor",
+            "website": "",
+            "startDate": "2025-02-28",
+            "endDate": "Present",
+            "summary": "Manage claw machines, capsule machines, and retail (blind boxes, TCGs, figurines, etc.)",
+            "highlights": [
+                "Opening up the store (unlock the door, turn on machines, etc.)",
+                "Closing the store (turn off lights, lock the door, etc.)",
+                "Counting money between shifts (cashier)",
+                "Conversing with customers over blind boxes or TCGs (Pokémon)",
+                "Inventory management and pricing (plushies, blind boxes, etc.)"
             ]
         }
     ],
